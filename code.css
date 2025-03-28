@@ -34,9 +34,85 @@ opacity: 0.9;
 font-size: larger;
 
 }
-.body1{
+.body-1{
     border: 3px solid black;
     margin: 10px 10px 10px 10px;
     padding: 10px 10px 10px 10px;
     border-radius: 10px;
 }
+.suggested{
+    padding: 2px;
+    margin: 1px;
+    border: 3px solid rgb(172, 171, 171);
+    border-radius: 5px;
+}
+.java{
+    margin: 10px;
+    padding: 10px;
+    border: 3px solid lightgreen;
+    border-radius: 5px;
+}
+.rank{
+    margin: 10px;
+    padding: 10px;
+    border: 3px solid lightgreen;
+    border-radius: 5px;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+   align-items: center;
+   gap: 10px;
+  margin: 4px;
+  padding:10px;
+}
+.array{
+    margin-top: 20px;
+    padding-top: 5px;
+    padding: 2px;
+    margin: 1px;
+    border: 3px solid rgb(172, 171, 171);
+    border-radius: 5px;
+}
+.list-2{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    gap: 20px;
+}
+.a{
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 10px;
+}
+.body-2{
+    display: flex;
+    justify-content: center;
+    border: 3px solid black;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+}
+.earn{
+    margin-top: 20px;
+    padding-top: 5px;
+    padding: 10px;
+    margin: 1px;
+    border: 3px solid rgb(172, 171, 171);
+    borderradius: 5px;
+    border-radius: 10px;
+}
+.button-2{
+    margin: 10px;
+    padding: 5px; 
+}
+.kata{
+    margin-top: 20px;
+    padding-top: 5px;
+    padding: 10px;
+    margin: 1px;
+    border: 3px solid rgb(172, 171, 171);
+    borderradius: 5px;
+    border-radius: 10px;
+}
+
