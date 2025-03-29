@@ -99,7 +99,7 @@ font-size: larger;
     padding: 10px;
     margin: 1px;
     border: 3px solid rgb(172, 171, 171);
-    borderradius: 5px;
+    border-radius: 5px;
     border-radius: 10px;
 }
 .button-2{
@@ -112,7 +112,43 @@ font-size: larger;
     padding: 10px;
     margin: 1px;
     border: 3px solid rgb(172, 171, 171);
-    borderradius: 5px;
     border-radius: 10px;
 }
+.allies{
+    display: flex;
+    justify-content: center;
+    border: 3px solid black;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+    flex-direction: column;
+}
+.table{
+height: auto;
+width:100%;
+border: 1px solid grey;
+margin-top: 20px;
+padding-top: 5px;
+padding: 10px;
+margin: 1px;
+border: 3px solid rgb(172, 171, 171);
+border-radius: 10px;
+}
+.t{
+    margin-top: 5px;
+    padding: 3px;
+    background-color: grey;
+    border: 3px solid grey;
+    border-collapse: collapse;
+}
+.body-3{
+    display: flex;
+    justify-content: center;
+    border: 3px solid black;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+    flex-direction: column;
+}
+
 
